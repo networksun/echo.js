@@ -1,0 +1,22 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "ceshi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/networksun/echo.js.git"
+  },
+  "keywords": [
+    "echo"
+  ],
+  "author": "sunflower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/networksun/echo.js/issues"
+  },
+  "homepage": "https://github.com/networksun/echo.js#readme"
+}
